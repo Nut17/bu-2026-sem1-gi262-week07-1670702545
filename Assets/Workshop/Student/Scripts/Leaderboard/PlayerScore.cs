@@ -10,5 +10,6 @@ namespace Searching
             this.playerName = playerName;
             this.score = score;
         }
+        
     }
 }
